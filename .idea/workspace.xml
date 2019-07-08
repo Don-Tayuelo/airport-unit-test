@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8665ba0e-c33e-4035-8188-6bf59e351da9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tdd/airport/PremiumFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/milage/Milage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/flights_information.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/milage/FlightArgumentConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/milage/MilageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tdd/airport/BusinessFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/airport/BusinessFlight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tdd/airport/EconomyFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/airport/EconomyFlight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tdd/airport/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/airport/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tdd/airport/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/airport/Passenger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tdd/airport/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tdd/airport/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tdd/airport/BusinessFlight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tdd/airport/BusinessFlight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tdd/airport/EconomyFlight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tdd/airport/EconomyFlight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tdd/airport/Flight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tdd/airport/Flight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tdd/airport/Passenger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tdd/airport/Passenger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$BusinessFlightTest$UsualPassenger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$BusinessFlightTest$UsualPassenger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$BusinessFlightTest$VipPassenger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$BusinessFlightTest$VipPassenger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$BusinessFlightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$BusinessFlightTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$EconomyFlightTest$UsualPassenger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$EconomyFlightTest$UsualPassenger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$EconomyFlightTest$VipPassenger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$EconomyFlightTest$VipPassenger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$EconomyFlightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest$EconomyFlightTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/airport/AirportTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/milage/MilageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/milage/MilageTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,25 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/airport/EconomyFlight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/milage/MilageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="442">
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,10 +34,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/airport/Flight.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/milage/FlightArgumentConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="221">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/airport/AirportTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="214" column="5" lean-forward="true" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#BusinessFlightTest#0;class#AirportTest#0" />
+                <element signature="class#UsualPassenger#0;class#BusinessFlightTest#0;class#AirportTest#0" />
+                <element signature="class#EconomyFlightTest#0;class#AirportTest#0" />
+                <element signature="class#PremiumFlightTest#0;class#AirportTest#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,11 +85,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tdd/airport/Milage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/tdd/airport/FlightArgumentConverter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/milage/FlightArgumentConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/milage/Milage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/milage/MilageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tdd/airport/BusinessFlight.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tdd/airport/Flight.java" />
+        <option value="$PROJECT_DIR$/src/test/java/milage/FlightArgumentConverter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/milage/MilageTest.java" />
       </list>
     </option>
   </component>
@@ -135,8 +117,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="-8" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -147,8 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,35 +144,6 @@
               <item name="fligths" type="b2602c69:ProjectViewProjectNode" />
               <item name="fligths" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fligths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fligths" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fligths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fligths" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="airport" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fligths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fligths" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="milage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fligths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fligths" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -210,19 +160,13 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="airport" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fligths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fligths" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="milage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,7 +175,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -253,23 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MilageTest">
-    <configuration name="AirportTest$BusinessFlightTest$VipPassenger.testBusinessFlightVipPassenger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="fligths" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="milage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.tdd.airport" />
-      <option name="MAIN_CLASS_NAME" value="com.tdd.airport.AirportTest$BusinessFlightTest$VipPassenger" />
-      <option name="METHOD_NAME" value="testBusinessFlightVipPassenger" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MilageTest.checkGivenPoints">
     <configuration name="AirportTest$BusinessFlightTest$VipPassenger.testBusinessFlightVipPassengerAddedOnlyOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fligths" />
       <extension name="coverage">
@@ -332,13 +260,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MilageTest.checkGivenPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fligths" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="milage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="milage" />
+      <option name="MAIN_CLASS_NAME" value="milage.MilageTest" />
+      <option name="METHOD_NAME" value="checkGivenPoints(com.tdd.airport.Flight)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MilageTest.checkGivenPoints" />
         <item itemvalue="JUnit.MilageTest" />
         <item itemvalue="JUnit.AirportTest" />
         <item itemvalue="JUnit.AirportTest$BusinessFlightTest$VipPassenger.testBusinessFlightVipPassengerAddedOnlyOnce" />
         <item itemvalue="JUnit.AirportTest$EconomyFlightTest$UsualPassenger.testEconomyFlightUsualPassenger" />
-        <item itemvalue="JUnit.AirportTest$BusinessFlightTest$VipPassenger.testBusinessFlightVipPassenger" />
       </list>
     </recent_temporary>
   </component>
@@ -356,12 +300,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MilageTest - 2019.07.03 at 09h 49m 18s.xml">
-      <configuration name="MilageTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MilageTest - 2019.07.03 at 10h 11m 36s.xml">
-      <configuration name="MilageTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MilageTest - 2019.07.03 at 10h 14m 39s.xml">
       <configuration name="MilageTest" configurationId="JUnit" />
     </history-entry>
@@ -386,6 +324,12 @@
     <history-entry file="MilageTest - 2019.07.03 at 11h 09m 27s.xml">
       <configuration name="MilageTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MilageTest - 2019.07.04 at 08h 30m 11s.xml">
+      <configuration name="MilageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MilageTest_checkGivenPoints - 2019.07.08 at 13h 57m 38s.xml">
+      <configuration name="MilageTest.checkGivenPoints" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,10 +341,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.68085104" visible="true" weight="0.2602118" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.68085104" visible="true" weight="0.20045386" />
       <window_info id="Structure" order="1" sideWeight="0.31914893" side_tool="true" weight="0.2602118" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -408,9 +352,10 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="SonarLint" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.52723145" weight="0.36006546" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.52723145" weight="0.2111293" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5417349" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -499,26 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/milage/FlightArgumentConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/milage/Milage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/airport/BusinessFlight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -533,21 +458,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/airport/Flight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/airport/AirportTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#BusinessFlightTest#0;class#AirportTest#0" />
-            <element signature="class#UsualPassenger#0;class#BusinessFlightTest#0;class#AirportTest#0" />
-            <element signature="class#EconomyFlightTest#0;class#AirportTest#0" />
-            <element signature="class#PremiumFlightTest#0;class#AirportTest#0" />
-          </folding>
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
@@ -566,17 +477,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/milage/Milage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/milage/MilageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="442">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/milage/FlightArgumentConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/airport/AirportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="214" column="5" lean-forward="true" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#BusinessFlightTest#0;class#AirportTest#0" />
+            <element signature="class#UsualPassenger#0;class#BusinessFlightTest#0;class#AirportTest#0" />
+            <element signature="class#EconomyFlightTest#0;class#AirportTest#0" />
+            <element signature="class#PremiumFlightTest#0;class#AirportTest#0" />
           </folding>
         </state>
       </provider>

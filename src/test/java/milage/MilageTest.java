@@ -24,7 +24,6 @@ public class MilageTest {
     }
 
     @ParameterizedTest
-    @Disabled
     @ValueSource(strings = { "1; e; Mike; false; 349", "2; b; John; true; 278",  "3; e; Mike; false; 319", "4; p; John; true; 817", "5; e; Mike; false; 623", "6; e; John; true; 978"})
     void checkGivenPoints(@ConvertWith(FlightArgumentConverter.class) Flight flight) {
         for (Passenger passenger: flight.getPassengersSet()) {
